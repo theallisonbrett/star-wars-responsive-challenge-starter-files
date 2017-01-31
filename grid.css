@@ -8,3 +8,13 @@
 	padding-right: 20px;
 	margin: 0 auto;
 }
+
+/*
+.row::before, .row::after {
+	display: table;
+	content: '';
+}
+
+.row::after {
+	clear: both;
+}
