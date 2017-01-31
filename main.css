@@ -22,6 +22,7 @@ body {
 
 .card {
 	border: 1px solid #E5E5E5;
+	margin-bottom: 20px;
 }
 
 .card-image {
@@ -31,4 +32,3 @@ body {
 .card-content {
 	padding: 20px;
 }
-
