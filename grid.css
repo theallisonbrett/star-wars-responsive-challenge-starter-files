@@ -9,7 +9,6 @@
 	margin: 0 auto;
 }
 
-/*
 .row::before, .row::after {
 	display: table;
 	content: '';
@@ -17,4 +16,10 @@
 
 .row::after {
 	clear: both;
+}
+
+.col-4 {
+	float: left;
+	padding-left: 1.04166666%;
+	padding-right:  1.04166666%;
 }
