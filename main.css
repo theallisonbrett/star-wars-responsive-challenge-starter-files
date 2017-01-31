@@ -23,3 +23,8 @@ body {
 .card {
 	border: 1px solid #E5E5E5;
 }
+
+.card-image {
+  width: 100%;
+}
+
